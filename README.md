@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/1xrm8dS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://imgur.com/1xrm8dS' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="1xrm8dS"><a href="https://imgur.com/1xrm8dS">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
