@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/1xrm8dS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="1xrm8dS"><a href="https://imgur.com/1xrm8dS">View post on imgur.com</a></blockquote> -->
+<!-- <img src='https://i.imgur.com/1xrm8dS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="1xrm8dS"><a href="https://imgur.com/1xrm8dS">View post on imgur.com</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
